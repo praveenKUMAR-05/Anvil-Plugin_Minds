@@ -1,0 +1,23 @@
+{
+  "incident_id": "scraped_75de35b8",
+  "title": "Explore Gudalur \u2014 Your Local Business Directory",
+  "start_time": "",
+  "end_time": "",
+  "impact": {
+    "duration_minutes": 0,
+    "affected_users": "unknown",
+    "revenue_impact": "unknown",
+    "severity": "P2"
+  },
+  "signals": {
+    "pagerduty": [],
+    "slack": [],
+    "logs": [],
+    "github": [],
+    "metrics": {}
+  },
+  "red_herrings": [],
+  "correct_root_cause": "Unknown \u2014 under investigation",
+  "action_items": [],
+  "detection_gap": ""
+}

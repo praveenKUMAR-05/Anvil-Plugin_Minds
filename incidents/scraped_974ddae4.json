@@ -1,0 +1,37 @@
+{
+  "incident_id": "scraped_974ddae4",
+  "title": "Simulated Incident",
+  "start_time": "2026-05-16T04:14:49.265368+00:00",
+  "end_time": "2026-05-16T04:14:49.265368+00:00",
+  "impact": {
+    "duration_minutes": 0,
+    "affected_users": "unknown",
+    "revenue_impact": "unknown",
+    "severity": "P2"
+  },
+  "signals": {
+    "pagerduty": [],
+    "slack": [
+      {
+        "timestamp": "2026-05-16T04:14:49.265368+00:00",
+        "channel": "#incidents",
+        "user": "@scraped",
+        "message": "Simulated key event"
+      }
+    ],
+    "logs": [
+      {
+        "timestamp": "2026-05-16T04:14:49.265368+00:00",
+        "service": "unknown",
+        "level": "error",
+        "message": "Simulated error or symptom"
+      }
+    ],
+    "github": [],
+    "metrics": {}
+  },
+  "red_herrings": [],
+  "correct_root_cause": "Unknown \u2014 under investigation",
+  "action_items": [],
+  "detection_gap": "Simulated from https://exploregdr.ajzenixtechnologies.com/"
+}

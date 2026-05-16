@@ -1,0 +1,37 @@
+{
+  "incident_id": "scraped_24d3c37b",
+  "title": "Vite + React",
+  "start_time": "2026-05-15T15:04:51.610288+00:00",
+  "end_time": "2026-05-15T15:04:51.610288+00:00",
+  "impact": {
+    "duration_minutes": 0,
+    "affected_users": "unknown",
+    "revenue_impact": "unknown",
+    "severity": "P2"
+  },
+  "signals": {
+    "pagerduty": [],
+    "slack": [
+      {
+        "timestamp": "2026-05-15T15:04:51.610288+00:00",
+        "channel": "#incidents",
+        "user": "@scraped",
+        "message": "Vite + React"
+      }
+    ],
+    "logs": [
+      {
+        "timestamp": "2026-05-15T15:04:51.610288+00:00",
+        "service": "unknown",
+        "level": "error",
+        "message": "Vite + React"
+      }
+    ],
+    "github": [],
+    "metrics": {}
+  },
+  "red_herrings": [],
+  "correct_root_cause": "Unknown \u2014 under investigation",
+  "action_items": [],
+  "detection_gap": "Scraped from https://skill-frontend-jade.vercel.app/"
+}
